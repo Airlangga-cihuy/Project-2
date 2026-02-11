@@ -1,0 +1,2 @@
+###Cara Pindahkan isi folder Project agar sama
+-mv Project-2/frontend Project-2/server .
