@@ -1,0 +1,12 @@
+{
+  "name": "rekognition-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "@aws-sdk/client-rekognition": "^3.985.0",
+    "cors": "^2.8.6",
+    "express": "^4.22.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
